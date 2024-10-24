@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Infrastructure\\Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Developer6669\\.nuget\\packages\\",
+        "outputPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\NuGet.Config",
+          "C:\\Users\\Developer6669\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2022\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2022\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\IranCoding\\Tutorials\\Report\\StimulSoft\\ASP Core\\Assets\\Stimulsoft_Reports_2023.1.1_Downloadly.ir\\Stimulsoft Reports 2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
+            "Microsoft.AspNetCore.Html.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Developer6669\\.nuget\\packages\\",
+        "outputPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\NuGet.Config",
+          "C:\\Users\\Developer6669\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2022\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2022\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\IranCoding\\Tutorials\\Report\\StimulSoft\\ASP Core\\Assets\\Stimulsoft_Reports_2023.1.1_Downloadly.ir\\Stimulsoft Reports 2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Stimulsoft.Reports.Engine.NetCore": {
+              "target": "Package",
+              "version": "[2023.1.1, )"
+            },
+            "Stimulsoft.Reports.Web.NetCore": {
+              "target": "Package",
+              "version": "[2023.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Developer6669\\.nuget\\packages\\",
+        "outputPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\NuGet.Config",
+          "C:\\Users\\Developer6669\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2022\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2022\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\IranCoding\\Tutorials\\Report\\StimulSoft\\ASP Core\\Assets\\Stimulsoft_Reports_2023.1.1_Downloadly.ir\\Stimulsoft Reports 2023.1.1\\Crack\\Libs\\Reports.NetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Application\\Application.csproj": {
+                "projectPath": "D:\\IranCoding\\Projects\\ASP Core\\Project\\IranCodingCQRS\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
+            "EPPlus.Core": {
+              "target": "Package",
+              "version": "[1.5.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

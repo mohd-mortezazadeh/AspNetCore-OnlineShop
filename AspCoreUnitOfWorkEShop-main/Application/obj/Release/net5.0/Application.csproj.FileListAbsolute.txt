@@ -1,0 +1,14 @@
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\bin\Release\net5.0\Application.deps.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\bin\Release\net5.0\Application.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\bin\Release\net5.0\ref\Application.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\bin\Release\net5.0\Application.pdb
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\bin\Release\net5.0\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\bin\Release\net5.0\Domain.pdb
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.csproj.AssemblyReference.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.AssemblyInfoInputs.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.AssemblyInfo.cs
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\ref\Application.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Application\obj\Release\net5.0\Application.pdb

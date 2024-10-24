@@ -1,0 +1,15 @@
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Release\net5.0\Domain.deps.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Release\net5.0\Domain.runtimeconfig.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Release\net5.0\Domain.runtimeconfig.dev.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Release\net5.0\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Release\net5.0\ref\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Release\net5.0\Domain.pdb
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.AssemblyInfo.cs
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\ref\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.pdb
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Release\net5.0\Domain.genruntimeconfig.cache

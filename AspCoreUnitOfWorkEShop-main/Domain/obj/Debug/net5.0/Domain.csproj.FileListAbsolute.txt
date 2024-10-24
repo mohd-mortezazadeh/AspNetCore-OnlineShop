@@ -1,0 +1,45 @@
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Debug\net5.0\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.pdb
+E:\Projects\Teleworking\ManiaProject\SourceCode\ManiaProject\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\bin\Debug\net5.0\Domain.dll
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.dll
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.pdb
+E:\Projects\Teleworking\Fintranet\CongestionTax\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\bin\Debug\net5.0\Domain.dll
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\bin\Debug\net5.0\Domain.pdb
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.dll
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.pdb
+D:\IranCoding\Projects\ASP Core\Project\IranCodingCQRS\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
